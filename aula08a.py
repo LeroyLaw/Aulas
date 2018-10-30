@@ -8,6 +8,9 @@
 #r = sqrt(n)
 #print('A raiz de {} é igual a {:.2f}!'.format(n, floor(r)))
 
-import random
-n = random.random()
-print(n)
+#import random
+#n = random.randint()
+#print(n)
+
+#import emoji
+#print(emoji.emojize(':sunglasses:', use_aliases=True))
